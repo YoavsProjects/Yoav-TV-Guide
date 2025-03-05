@@ -1,4 +1,4 @@
-# Yoav-s-TV-Guide
+# Yoav-TV-Guide
 
 Yoav's Complete TV Shows Guide
 
