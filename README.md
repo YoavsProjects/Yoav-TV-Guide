@@ -1,4 +1,4 @@
-# Yoav's full TV Shows guide
+# Yoav's Full TV Shows Guide
 
 ## RENEWED:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
@@ -7,7 +7,7 @@
 
 **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *2026*.
 
-**_Diplomat, The (The Diplomat)_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET *2025*.
+**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET *2025*.
 
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Renewed, release NET *Autumn 2025*.
 
@@ -23,7 +23,7 @@
 
 **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :two: - Renewed, release NET *Autumn 2025*.
 
-**_Night Agent, The (The Night Agent)_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *TBD*.
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *TBD*.
 
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Renewed, release *TBD* (supposedly Q4 2025).
 
@@ -34,11 +34,11 @@
 
 **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
-**_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Pending Renewal/Cancellation from *HBO Max*.
+**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Pending Renewal/Cancellation from *HBO Max*.
 
-**_Mayfair Witches, Anne Rice's (Anne Rice's Mayfair Witches)_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Pending Renewal/Cancellation from *AMC+*.
+**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Pending Renewal/Cancellation from *AMC+*.
 
-**_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
+**_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
 ## CANCELLATIONS:
 **_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))** - Will be ending with season :four:
@@ -56,7 +56,7 @@
 
 <ins>Sunday:</ins>
 
-**_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiere date: *13/04/2025* (Weekly)
+**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiere date: *13/04/2025* (Weekly)
 
 
 <ins>Monday:</ins>
@@ -88,7 +88,7 @@
 
 <ins>Thursday:</ins>
 
-**_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :three: - Premiered @ *13/03/2025* (Weekly)
+**_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :three: - Premiered @ *13/03/2025* (Weekly)
 
 **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** :five: - **_FINAL SEASON_** - Premiere date: *24/04/2025* (Full Season)
 
@@ -110,7 +110,7 @@
 * **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))**
 * **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))**
 * **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))**
-* **_Diplomat, The (The Diplomat)_ ([Netflix](https://www.netflix.com/title/81288983))**
+* **_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))**
 * **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))**
 * **_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))**
 * **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))**
@@ -118,13 +118,13 @@
 * **_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))**
 * **_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))**
 * **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))**
-* **_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))**
-* **_Mayfair Witches, Anne Rice's (Anne Rice's Mayfair Witches)_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))**
+* **_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))**
+* **_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))**
 * **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))**
 * **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))**
-* **_Night Agent, The (The Night Agent)_ ([Netflix](https://www.netflix.com/title/81450827))**
+* **_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))**
 * **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))**
-* **_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))**
+* **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))**
 * **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))**
 
 ### <ins>TERMS USED -</ins>
