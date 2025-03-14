@@ -1,6 +1,6 @@
 # Yoav's full TV Shows guide
 
-## <ins>Renewed:</ins>
+## Renewed:
 [**_3 Body Problem_ (Netflix)**](https://www.netflix.com/title/81024821) :two: - Renewed, release TBD
 
 [**_Criminal Minds: Evolution_ (Paramount+)**](https://www.paramountplus.com/shows/criminal_minds) :one::eight: - Renewed, release NET 2025
@@ -27,7 +27,7 @@
 
 [**_YOU_ (Netflix)**](https://www.netflix.com/title/80211991) :five: - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
 
-## <ins>Pending:</ins>
+## Pending:
 [**_Chicago FIRE_ (NBC)**](https://www.nbc.com/chicago-fire) :one::four: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
 
 [**_Chicago MED_ (NBC)**](https://www.nbc.com/chicago-med) :one::one: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
@@ -40,7 +40,7 @@
 
 [**_The Wheel of Time_ (Amazon Prime Video)**](https://www.amazon.com/dp/B09F5WS2B5) :four: - Pending Renewal/Cancellation from network
 
-## <ins>Cancellations:</ins>
+## Cancellations:
 [**_FBI: International_ (CBS)**](https://www.cbs.com/shows/fbi-international) - Will be ending with season :four:
 
 [**_FBI: Most Wanted_ (CBS)**](https://www.cbs.com/shows/fbi-most-wanted) - Will be ending with season :six:
@@ -49,10 +49,10 @@
 
 [**_YOU_ (Netflix)**](https://www.netflix.com/title/80211991) - Will be ending with season :five:
 
-## <ins>Notes:</ins>
+## Notes:
 [**_FBI_ (CBS)**](https://www.cbs.com/shows/fbi) - Renewed through season :nine:
 
-## <ins>Day-By-Day Schedule:</ins>
+## Day-By-Day Schedule:
 
 <ins>Sunday:</ins>
 
