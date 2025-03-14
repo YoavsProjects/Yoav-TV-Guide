@@ -1,46 +1,46 @@
 # Yoav's full TV Shows guide
 
-## Renewed:
-**_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release TBD
+## RENEWED:
+**_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Renewed, release NET 2025
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Renewed, release NET *2025*.
 
-**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET 2025
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *2026*.
 
-**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Renewed, release NET September 2025
+**_Diplomat, The (The Diplomat)_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET *2025*.
 
-**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Renewed, release NET September 2025
+**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Renewed, release NET *Autumn 2025*.
 
-**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** ::five - Renewed, release TBD
+**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Renewed, release NET *Autumn 2025*.
 
-**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :three: - Renewed, release NET Q3 2025
+**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Renewed, release *TBD*.
 
-**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release TBD
+**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :three: - Renewed, release NET *Q3 2025*.
 
-**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Renewed, release NET September 2025
+**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *TBD*.
 
-**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :two: - Renewed, release NET September 2025
+**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Renewed, release NET *Autumn 2025*.
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release TBD House
+**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :two: - Renewed, release NET *Autumn 2025*.
 
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Renewed, release TBD (supposedly Q4 2025)
+**_Night Agent, The (The Night Agent)_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *TBD*.
 
-**_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** :five: - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
+**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Renewed, release *TBD* (supposedly Q4 2025).
 
-## Pending:
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+## PENDING:
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
-**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Pending Renewal/Cancellation from network
+**_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Pending Renewal/Cancellation from *HBO Max*.
 
-**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Pending Renewal/Cancellation from network
+**_Mayfair Witches, Anne Rice's (Anne Rice's Mayfair Witches)_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Pending Renewal/Cancellation from *AMC+*.
 
-**_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from network
+**_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
-## Cancellations:
+## CANCELLATIONS:
 **_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))** - Will be ending with season :four:
 
 **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** - Will be ending with season :six:
@@ -49,70 +49,99 @@
 
 **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** - Will be ending with season :five:
 
-## Notes:
-**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** - Renewed through season :nine:
+## NOTES:
+**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** - Renewed through season :nine:!
 
 ## Day-By-Day Schedule:
 
 <ins>Sunday:</ins>
 
-**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiere date: 13/04/2025 (Weekly)
+**_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiere date: *13/04/2025* (Weekly)
 
 
 <ins>Monday:</ins>
 
-**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::two: - Premiered @ 14/10/2024 (Weekly)
+**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::two: - Premiered @ *14/10/2024* (Weekly)
 
-**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :one: - **_NEW_** - Premiered @ 14/10/2024 (Weekly)
+**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :one: - **_NEW_** - Premiered @ *14/10/2024* (Weekly)
 
 
 <ins>Tuesday:</ins>
 
-**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :seven: - Premiered @ 15/10/2024 (Weekly)
+**_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :seven: - Premiered @ *15/10/2024* (Weekly)
 
-**_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))** :four: - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
+**_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))** :four: - **_FINAL SEASON_** - Premiered @ *15/10/2024* (Weekly)
 
-**_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** :six: - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
+**_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** :six: - **_FINAL SEASON_** - Premiered @ *15/10/2024* (Weekly)
+
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :one: - **_NEW_** - Premiered @ *04/03/2025* (Weekly)
 
 
 <ins>Wednesday:</ins>
 
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::zero: - Premiered @ 25/09/2024 (Weekly)
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::zero: - Premiered @ *25/09/2024* (Weekly)
 
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::three: - Premiered @ 25/09/2024 (Weekly)
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::three: - Premiered @ *25/09/2024* (Weekly)
 
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::two: - Premiered @ 25/09/2024 (Weekly)
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::two: - Premiered @ *25/09/2024* (Weekly)
 
 
 <ins>Thursday:</ins>
 
-**_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :three: - Premiered @ 13/03/2025 (Weekly)
+**_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :three: - Premiered @ *13/03/2025* (Weekly)
 
-**_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** :five: - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
+**_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** :five: - **_FINAL SEASON_** - Premiere date: *24/04/2025* (Full Season)
 
 
 <ins>Friday:</ins>
 
-**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :three: - Premiered @ 18/10/2024 (Weekly)
+**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :three: - Premiered @ *18/10/2024* (Weekly)
 
 
 <ins>Saturday:</ins>
 
 ~~Null~~
 
-## Legend:
-* Renewed, release TBD
-* Renewed, release NET <"time estimate">
-* Premiere date: <date of series/season premiere>
-* Premiered @ <date of series/season premiere>
-* **_NEW_**
-* **_FINAL SEASON_**
-* Pending Renewal/Cancellation from network
-* ~~Null~~
+## LEGEND:
+### <ins>ALL SHOWS -</ins>
+* **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))**
+* **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))**
+* **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))**
+* **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))**
+* **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))**
+* **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))**
+* **_Diplomat, The (The Diplomat)_ ([Netflix](https://www.netflix.com/title/81288983))**
+* **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))**
+* **_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))**
+* **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))**
+* **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))**
+* **_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))**
+* **_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))**
+* **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))**
+* **_Last of Us, The (The Last of Us)_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))**
+* **_Mayfair Witches, Anne Rice's (Anne Rice's Mayfair Witches)_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))**
+* **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))**
+* **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))**
+* **_Night Agent, The (The Night Agent)_ ([Netflix](https://www.netflix.com/title/81450827))**
+* **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))**
+* **_Wheel of Time, The (The Wheel of Time)_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))**
+* **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))**
 
-## Links:
+### <ins>TERMS USED -</ins>
+* Premiere date: {*date*} - The show had scored another season, it will premiere at the specified date.
+* Renewed, release NET {*time frame*} - The show had scored another season, it's release will *NOT* take place before the time frame specified.
+* Renewed, release *TBD* - The show had scored another season, it's release date is currenly *unknown*.
+* Premiered @ {*date*} - The show's current season is currently being aired, and had premiered at the time specified.
+* **_NEW_** - This is a *brand new* TV show (TV shows in their first season).
+* **_FINAL SEASON_** - The show had been canceled, the currently airing season is it's last.
+* Pending Renewal/Cancellation from {*network*} - The TV show is currently in "limbo", while it awaits word from it's respective network.
+* Weekly - The tv show is being broadcast on a one-episode-per-week schedule.
+* Full Season - The entire season drops on the same day.
 
-[**TVLine Renewal/Cancellation Scorecard**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/abc-911-greys-anatomy-doctor-odyssey/)
+## EXTERNAL SOURCES:
 
-Updated 14/03/2025.
-Fifth update of the 2024/25 season.
+* *TVLine*'s [**2025 Cancelled and Renewed TV Shows - Which Are Returning?**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/)
+* *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
+
+Updated *14/03/2025*.
+**_Sixth_** update of the **_2024/25_** broadcasting season.
