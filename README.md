@@ -1,6 +1,6 @@
 # Yoav's Full TV Shows Guide
 
-## RENEWED:
+## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
 **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Renewed, release NET *2025*.
@@ -27,7 +27,7 @@
 
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Renewed, release *TBD* (supposedly Q4 2025).
 
-## PENDING:
+## Pending:
 **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
 **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
@@ -40,7 +40,7 @@
 
 **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
-## CANCELLATIONS:
+## 2025 Cancellations:
 **_FBI: International_ ([CBS](https://www.cbs.com/shows/fbi-international))** - Will be ending with season :four:
 
 **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** - Will be ending with season :six:
@@ -49,7 +49,7 @@
 
 **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** - Will be ending with season :five:
 
-## NOTES:
+## Notes:
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** - Renewed through season :nine:!
 
 ## Day-By-Day Schedule:
@@ -102,8 +102,8 @@
 
 ~~Null~~
 
-## LEGEND:
-### <ins>ALL SHOWS -</ins>
+## Legend:
+### All Shows -
 * **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))**
 * **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))**
 * **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))**
@@ -127,21 +127,22 @@
 * **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))**
 * **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))**
 
-### <ins>TERMS USED -</ins>
+### Terms Used -
 * Premiere date: {*date*} - The show had scored another season, it will premiere at the specified date.
-* Renewed, release NET {*time frame*} - The show had scored another season, it's release will *NOT* take place before the time frame specified.
-* Renewed, release *TBD* - The show had scored another season, it's release date is currenly *unknown*.
+* Renewed, release NET {*time frame*} - The show had scored another season, its release will *NOT* take place before the time frame specified.
+* Renewed, release *TBD* - The show had scored another season, its release date is currenly *unknown*.
 * Premiered @ {*date*} - The show's current season is currently being aired, and had premiered at the time specified.
 * **_NEW_** - This is a *brand new* TV show (TV shows in their first season).
-* **_FINAL SEASON_** - The show had been canceled, the currently airing season is it's last.
-* Pending Renewal/Cancellation from {*network*} - The TV show is currently in "limbo", while it awaits word from it's respective network.
-* Weekly - The tv show is being broadcast on a one-episode-per-week schedule.
+* **_FINAL SEASON_** - The show had been canceled, the currently airing season is its last.
+* Pending Renewal/Cancellation from {*network*} - The TV show is currently in "limbo", while it awaits word from its respective network.
+* Weekly - The show is being broadcast on a one-episode per-week schedule.
 * Full Season - The entire season drops on the same day.
 
-## EXTERNAL SOURCES:
-
+## External Sources:
 * *TVLine*'s [**2025 Cancelled and Renewed TV Shows - Which Are Returning?**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/)
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
+
 Updated *14/03/2025*.
+
 **_Sixth_** update of the **_2024/25_** broadcasting season.
