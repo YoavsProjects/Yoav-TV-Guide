@@ -1,9 +1,9 @@
 # Yoav's full TV Shows guide
 
 ## Renewed:
-[**_3 Body Problem_ (Netflix)**](https://www.netflix.com/title/81024821) :two: - Renewed, release TBD
+**_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release TBD
 
-[**_Criminal Minds: Evolution_ (Paramount+)**](https://www.paramountplus.com/shows/criminal_minds) :one::eight: - Renewed, release NET 2025
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Renewed, release NET 2025
 
 [**_The Diplomat_ (Netflix)**](https://www.netflix.com/title/81288983) :three: - Renewed, release NET 2025
 
