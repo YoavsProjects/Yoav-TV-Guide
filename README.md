@@ -1,4 +1,7 @@
 # Yoav's Full TV Shows Guide
+This repository will display my personal TV Shows watchlist, including information regarding the release dates, and Renewel/Cencellation status for all the show.
+
+You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
