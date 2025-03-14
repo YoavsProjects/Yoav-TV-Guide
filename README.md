@@ -1,57 +1,104 @@
 # Yoav's Complete TV Shows Guide
 
 ## Renewed:
+[**_3 Body Problem_ (Netflix)**](https://www.netflix.com/us/title/81024821) :two: - Renewed, release TBD
 
-### 2025 Release
-**_NCIS_ (CBS)** :two::three: - Renewed, release NET autumn 2025
+**_Criminal Minds: Evolution_ (Paramount+)** :one::eight: - Renewed, release NET 2025
 
-**_NCIS: Origins_ (CBS)** 2️⃣ - Renewed, release NET autumn 2025
+**_The Diplomat_ (Netflix)** :three: - Renewed, release NET 2025
 
-**_FBI_ (CBS)** 8️⃣ - Renewed, release NET autumn 2025
+**_FBI_ (CBS)** :eight: - Renewed, release NET September 2025
 
-**_Fire County_ (CBS)** 4️⃣ - Renewed, release NET autumn 2025
+**_Fire County_ (CBS)** :four: - Renewed, release NET September 2025
 
-**_Foundation_ (Apple TV+)** 3️⃣ - Renewed, release NET Q3 2025
+**_For All Mankind_ (Apple TV+)** ::five - Renewed, release TBD
 
-**_Criminal Minds: Evolution_ (Paramount+)** 1️⃣8️⃣ - Renewed, release NET 2025
+**_Foundation_ (Apple TV+)** :three: - Renewed, release NET Q3 2025
 
-**_The Diplomat_ (Netflix)** 3️⃣ - Renewed, release NET 2025
+**_House of the Dragon_ (HBO Max)** :three: - Renewed, release TBD
 
-### Release Unknown
-**_For All Mankind_ (Apple TV+)** 5️⃣ - Renewed, release TBD
+**_NCIS_ (CBS)** :two::three: - Renewed, release NET September 2025
 
-**_3 Body Problem_ (Netflix)** 2️⃣ - Renewed, release TBD
+**_NCIS: Origins_ (CBS)** :two: - Renewed, release NET September 2025
 
-**_House of the Dragon_ (HBO Max)** 3️⃣ - Renewed, release TBD
+**_The Night Agent_ (Netflix)** :three: - Renewed, release TBD House
 
-**_The Night Agent_ (Netflix)** 3️⃣ - Renewed, release TBD House
+**_Stranger Things_ (Netflix)** :five: - **_FINAL SEASON_** - Renewed, release TBD (supposedly Q4 2025)
 
-**_Stranger Things_ (Netflix)** 5️⃣ - **_FINAL SEASON_** - Renewed, release TBD (supposedly Q4 2025)
+**_YOU_ (Netflix)** :five: - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
 
 ## Pending:
-**_Chicago MED_ (NBC)** 1️⃣1️⃣ - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+**_Chicago FIRE_ (NBC)** :one::four: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
 
-**_Chicago FIRE_ (NBC)** 1️⃣4️⃣ - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+**_Chicago MED_ (NBC)** :one::one: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
 
-**_Chicago P.D._ (NBC)** 1️⃣3️⃣ - Pending Renewal/Cancellation from network (TVLine: A sure thing)
+**_Chicago P.D._ (NBC)** :one::three: - Pending Renewal/Cancellation from network (TVLine: A sure thing)
 
-**_Anne Rice's Mayfair Witches_ (AMC+)** 3️⃣ - Pending Renewal/Cancellation from network
+**_The Last of Us_ (HBO Max)** :three: - Pending Renewal/Cancellation from network
 
-**_The Wheel of Time_ (Amazon Prime)** 4️⃣ - Pending Renewal/Cancellation from network
+**_Anne Rice's Mayfair Witches_ (AMC+)** :three: - Pending Renewal/Cancellation from network
 
-**_The Last of Us_ (HBO Max)** 3️⃣ - Pending Renewal/Cancellation from network
+**_The Wheel of Time_ (Amazon Prime)** :four: - Pending Renewal/Cancellation from network
 
-## Cancellations -
-**_FBI: International_ (CBS)** - Will be ending with season 4️⃣
+## Cancellations:
+**_FBI: International_ (CBS)** - Will be ending with season :four:
 
-**_FBI: Most Wanted_ (CBS)** - Will be ending with season 6️⃣
+**_FBI: Most Wanted_ (CBS)** - Will be ending with season :six:
 
-**_YOU_ (Netflix)** - Will be ending with season 5️⃣
+**_Stranger Things_ (Netflix)** - Will be ending with season :five:
 
-**_Stranger Things_ (Netflix)** - Will be ending with season 5️⃣
+**_YOU_ (Netflix)** - Will be ending with season :five:
 
-## Notes -
-**_FBI_ (CBS)** - Renewed through 9️⃣
+## Notes:
+**_FBI_ (CBS)** - Renewed through season :nine:
+
+## Day-By-Day Schedule:
+
+<ins>Sunday:</ins>
+
+**_The Last of Us_ (HBO Max)** :two: - Premiere date: 13/04/2025 (Weekly)
+
+
+<ins>Monday:</ins>
+
+**_NCIS_ (CBS)** :two::two: - Premiered @ 14/10/2024 (Weekly)
+
+**_NCIS: Origins_ (CBS)** :one: - Premiered @ 14/10/2024 (Weekly)
+
+
+<ins>Tuesday:</ins>
+
+**_FBI_ (CBS)** :seven: - Premiered @ 15/10/2024 (Weekly)
+
+**_FBI: International_ (CBS)** :four: - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
+
+**_FBI: Most Wanted_ (CBS)** :six: - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
+
+
+<ins>Wednesday:</ins>
+
+**_Chicago MED_ (NBC)** :one::zero: - Premiered @ 25/09/2024 (Weekly)
+
+**_Chicago FIRE_ (NBC)** :one::three: - Premiered @ 25/09/2024 (Weekly)
+
+**_Chicago P.D._ (NBC)** :one::two: - Premiered @ 25/09/2024 (Weekly)
+
+
+<ins>Thursday:</ins>
+
+**_The Wheel of Time_ (Amazon Prime)** :three: - Premiered @ 13/03/2025 (Weekly)
+
+**_YOU_ (Netflix)** :five: - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
+
+
+<ins>Friday:</ins>
+
+**_Fire County_ (CBS)** :three: - Premiered @ 18/10/2024 (Weekly)
+
+
+<ins>Saturday:</ins>
+
+~~Null~~
 
 ## Legend:
 * Renewed, release TBD
@@ -62,41 +109,6 @@
 * FINAL SEASON
 * Pending Renewal/Cancellation from network
 * Null
-
-## Day-By-Day Schedule:
-
-<ins>Sunday:</ins>
-**_The Last of Us_ (HBO Max)** 2️⃣ - Premiere date: 13/04/2025 (Weekly)
-
-<ins>Monday:</ins>
-**_NCIS_ (CBS)** 2️⃣2️⃣ - Premiered @ 14/10/2024 (Weekly)
-
-**_NCIS: Origins_ (CBS)** 1️⃣ - Premiered @ 14/10/2024 (Weekly)
-
-<ins>Tuesday:</ins>
-**_FBI_ (CBS)** 7️⃣ - Premiered @ 15/10/2024 (Weekly)
-
-**_FBI: International_ (CBS)** 4️⃣ - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
-
-**_FBI: Most Wanted_ (CBS)** 6️⃣ - **_FINAL SEASON_** - Premiered @ 15/10/2024 (Weekly)
-
-<ins>Wednesday:</ins>
-**_Chicago MED_ (NBC)** 1️⃣0️⃣ - Premiered @ 25/09/2024 (Weekly)
-
-**_Chicago FIRE_ (NBC)** 1️⃣3️⃣ - Premiered @ 25/09/2024 (Weekly)
-
-**_Chicago P.D._ (NBC)** 1️⃣2️⃣ - Premiered @ 25/09/2024 (Weekly)
-
-<ins>Thursday:</ins>
-**_The Wheel of Time_ (Amazon Prime)** 3️⃣ - Premiere date: 13/03/2025 (Weekly)
-
-**_YOU_ (Netflix)** 5️⃣ - **_FINAL SEASON_** - Premiere date: 24/04/2025 (Full Season)
-
-<ins>Friday:</ins>
-**_Fire County_ (CBS)** 3️⃣ - Premiered @ 18/10/2024 (Weekly)
-
-<ins>Saturday:</ins>
-~~Null~~
 
 ## Links:
 
