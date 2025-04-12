@@ -22,7 +22,9 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *TBD*.
 
-**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: -  Renewed, release *TBD*.
+**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Renewed, release *TBD*.
+
+**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Renewed, release *TBD*.
 
 **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Renewed, release NET *Autumn 2025*.
 
@@ -38,8 +40,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
 **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
-
-**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Pending Renewal/Cancellation from *AMC+*.
 
 **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
