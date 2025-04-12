@@ -146,6 +146,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
-Updated *13/04/2025*.
+Updated *12/04/2025*.
 
 **_Seventh_** update of the **_2024/25_** broadcasting season.
