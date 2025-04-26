@@ -6,7 +6,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Renewed, release NET *2025*.
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Premiere date: *08/05/2025*.
 
 **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *2026*.
 
@@ -41,6 +41,8 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Pending Renewal/Cancellation from *Paramount Plus*.
+
 **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
 ## 2025 Cancellations:
@@ -49,8 +51,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** - Will be ending with season :six:
 
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** - Will be ending with season :five:
-
-**_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** - Will be ending with season :five:
 
 ## Notes:
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** - Renewed through season :nine:!
@@ -77,8 +77,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 **_FBI: Most Wanted_ ([CBS](https://www.cbs.com/shows/fbi-most-wanted))** :six: - **_FINAL SEASON_** - Premiered @ *15/10/2024* (Weekly)
 
-**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :one: - **_NEW_** - Premiered @ *04/03/2025* (Weekly)
-
 
 <ins>Wednesday:</ins>
 
@@ -91,9 +89,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 <ins>Thursday:</ins>
 
-**_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :three: - Premiered @ *13/03/2025* (Weekly)
-
-**_YOU_ ([Netflix](https://www.netflix.com/title/80211991))** :five: - **_FINAL SEASON_** - Premiere date: *24/04/2025* (Full Season)
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Premiere date: *08/05/2025* (Weekly)
 
 
 <ins>Friday:</ins>
@@ -128,7 +124,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 * **_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))**
 * **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))**
 * **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))**
-* **_YOU_ ([Netflix](https://www.netflix.com/title/80211991))**
 
 ### Terms Used -
 * Premiere date: {*date*} - The show had scored another season, it will premiere at the specified date.
@@ -148,4 +143,4 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 Updated *12/04/2025*.
 
-**_Seventh_** update of the **_2024/25_** broadcasting season.
+**_Eighth_** update of the **_2024/25_** broadcasting season.
