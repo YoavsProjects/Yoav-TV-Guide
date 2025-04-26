@@ -92,7 +92,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 <ins>Friday:</ins>
 
-**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :three: - Premiered @ *18/10/2024* (Weekly)
+~~Null~~
 
 
 <ins>Saturday:</ins>
