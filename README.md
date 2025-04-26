@@ -6,7 +6,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Premiere date: *08/05/2025*.
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release NET *2026*.
 
 **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *2026*.
 
@@ -40,8 +40,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
 
 **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
-
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Pending Renewal/Cancellation from *Paramount Plus*.
 
 **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
