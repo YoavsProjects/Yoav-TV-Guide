@@ -1,5 +1,5 @@
 # Yoav's Full TV Shows Guide
-This repository will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cencellation status for all the show.
+This repository will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cancellation status for all the show.
 
 You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
@@ -59,7 +59,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 <ins>Sunday:</ins>
 
-**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiere date: *13/04/2025* (Weekly)
+**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :two: - Premiered @ *13/04/2025* (Weekly)
 
 
 <ins>Monday:</ins>
