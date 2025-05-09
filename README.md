@@ -8,6 +8,14 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release NET *2026*.
 
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Renewed, release NET *Autumn 2025*.
+
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Renewed, release NET *Autumn 2025*.
+
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Renewed, release NET *Autumn 2025*.
+
+**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - New show, release NET *Autumn 2025*.
+
 **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *2026*.
 
 **_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET *2025*.
@@ -17,8 +25,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Renewed, release NET *Autumn 2025*.
 
 **_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Renewed, release *TBD*.
-
-**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :three: - Renewed, release NET *Q3 2025*.
 
 **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *TBD*.
 
@@ -35,11 +41,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Renewed, release *TBD* (supposedly Q4 2025).
 
 ## Pending:
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
-
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
-
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Pending Renewal/Cancellation from *NBC* (TVLine: A sure thing).
+**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Pending Renewal/Cancellation from *Apple TV+*.
 
 **_The Wheel of Time_ ([Amazon Prime Video](https://www.amazon.com/dp/B09F5WS2B5))** :four: - Pending Renewal/Cancellation from *Amazon Prime Video*.
 
@@ -62,9 +64,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 <ins>Monday:</ins>
 
-**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::two: - Premiered @ *14/10/2024* (Weekly)
-
-**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :one: - **_NEW_** - Premiered @ *14/10/2024* (Weekly)
+~~Null~~
 
 
 <ins>Tuesday:</ins>
@@ -87,12 +87,12 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 <ins>Thursday:</ins>
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Premiere date: *08/05/2025* (Weekly)
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::eight: - Premiered @ *08/05/2025* (Weekly)
 
 
 <ins>Friday:</ins>
 
-~~Null~~
+**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :three: - Premiere date: *11/07/2025* (Weekly)
 
 
 <ins>Saturday:</ins>
@@ -105,6 +105,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 * **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))**
 * **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))**
 * **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))**
+* **_CIA_ ([CBS](https://www.cbs.com/shows/cia))**
 * **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))**
 * **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))**
 * **_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))**
