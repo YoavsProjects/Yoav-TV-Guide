@@ -6,19 +6,19 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release NET *2026*.
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release *NET 2026*.
 
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Renewed, release NET *Autumn 2025*.
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Renewed, release *NET Autumn 2025*.
 
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Renewed, release NET *Autumn 2025*.
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Renewed, release *NET Autumn 2025*.
 
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Renewed, release NET *Autumn 2025*.
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Renewed, release *NET Autumn 2025*.
 
-**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - New show, release NET *January 2026* (held for midseason).
+**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - New show, release *NET January 2026* (held for midseason).
 
-**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release NET *March 2026*.
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release *NET March 2026*.
 
-**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release NET *Autumn 2025*.
+**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release *NET Autumn 2025*.
 
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Premiere date: *13/10/2025*.
 
@@ -28,15 +28,15 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *TBD*.
 
-**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Renewed, release NET *2026*.
+**_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Renewed, release *NET 2026*.
 
-**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Renewed, release NET *2026*.
+**_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Renewed, release *NET 2026*.
 
 **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Premiere date: *14/10/2025*.
 
 **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :two: - Premiere date: *14/10/2025*.
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release NET *end of 2026*.
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *NET end of 2026*.
 
 **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - New show, Premiere date: *17/10/2025*.
 
