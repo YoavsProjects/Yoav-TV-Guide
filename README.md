@@ -1,4 +1,4 @@
-# Yoav's Full TV Shows Guide
+# Yoav's TV Shows Guide
 This Repo's README will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cancellation status for all the show.
 
 You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
