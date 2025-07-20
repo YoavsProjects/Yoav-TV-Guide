@@ -1,5 +1,5 @@
 # Yoav's Full TV Shows Guide
-This Repo's README will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cancelation status for all the show.
+This Repo's README will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cancellation status for all the show.
 
 You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
@@ -43,9 +43,9 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Will release in three parts: Episodes 1-4, 27/11/2025; Episodes 5-7, 26/11/2025; Episode 8 (Finale), 01/01/2026.
 
 ## Pending:
-**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Pending Renewal/Cancelation from *Apple TV+*.
+**_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Pending Renewal/Cancellation from *Apple TV+*.
 
-## 2025 Cancelations:
+## 2025 Cancellations:
 **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** - Will be ending with season :five:
 
 ## Notes/Extras:
@@ -125,13 +125,13 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 * Renewed, release *TBD* - The show had scored another season, its release date is currenly *completely unknown*.
 * Premiered @ {*date*} - The show's specified season is currently being aired, and had premiered at the specified time.
 * **_NEW_** - This is a *brand new* TV show (TV shows in their first season).
-* **_FINAL SEASON_** - The show had been canceled, the currently airing/upcoming season will be its last.
-* Pending Renewal/Cancelation from {*network*} - The TV show is currently in "limbo", while it awaits word from its respective network.
+* **_FINAL SEASON_** - The show had been cancelled, the currently airing/upcoming season will be its last.
+* Pending Renewal/Cancellation from {*network*} - The TV show is currently in "limbo", while it awaits word from its respective network.
 * Weekly - The show is being broadcast on a one-episode-per-week schedule. There may still be breaks in between episodes.
 * Full Season - The entire season drops on the specified day.
 
 ## External Sources:
-* *TVLine*'s [**2025 Canceled and Renewed TV Shows - Which Are Returning?**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/)
+* *TVLine*'s [**2025 Cancelled and Renewed TV Shows - Which Are Returning?**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/)
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
