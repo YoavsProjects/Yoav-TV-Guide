@@ -95,8 +95,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 
 ~~Null~~
 
-## Legend:
-### All Shows -
+## All Shows:
 * **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))**
 * **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))**
 * **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))**
@@ -118,16 +117,18 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows--).
 * **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))**
 * **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))**
 
-### Terms Used -
+## Terms Used (Legend):
+* NET - An acronym meaning No Earlier Than.
+* TBD - An acronym meaning To Be Determined.
 * Premiere date: {*date*} - The show had scored another season, it will premiere at the specified date.
-* Renewed, release NET {*time frame*} - The show had scored another season, its release will *NOT* take place before the time frame specified.
-* Renewed, release *TBD* - The show had scored another season, its release date is currenly *unknown*.
-* Premiered @ {*date*} - The show's current season is currently being aired, and had premiered at the time specified.
+* Renewed, release *NET {time frame}* - The show had scored another season, its release will *NOT* take place before the specified time frame.
+* Renewed, release *TBD* - The show had scored another season, its release date is currenly *completely unknown*.
+* Premiered @ {*date*} - The show's specified season is currently being aired, and had premiered at the specified time.
 * **_NEW_** - This is a *brand new* TV show (TV shows in their first season).
-* **_FINAL SEASON_** - The show had been canceled, the currently airing season is its last.
+* **_FINAL SEASON_** - The show had been canceled, the currently airing/upcoming season will be its last.
 * Pending Renewal/Cancelation from {*network*} - The TV show is currently in "limbo", while it awaits word from its respective network.
-* Weekly - The show is being broadcast on a one-episode per-week schedule.
-* Full Season - The entire season drops on the same day.
+* Weekly - The show is being broadcast on a one-episode-per-week schedule. There may still be breaks in between episodes.
+* Full Season - The entire season drops on the specified day.
 
 ## External Sources:
 * *TVLine*'s [**2025 Canceled and Renewed TV Shows - Which Are Returning?**](https://tvline.com/lists/canceled-renewed-tv-shows-2025-scorecard/)
