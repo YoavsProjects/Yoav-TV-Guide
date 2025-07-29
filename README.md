@@ -1,5 +1,5 @@
 # Yoav's TV Shows Guide
-This Repo's [README.md](https://github.com/YoavOffekProjects/Yoav-TV-Guide/blob/main/README.md) will display my personal TV Shows watchlist, including information regarding the release dates, and Renewal/Cancellation status for all the show.
+This Repo's [README.md](https://github.com/YoavOffekProjects/Yoav-TV-Guide/blob/main/README.md) will display my personal TV Shows' watchlist, including information regarding the release dates, and Renewal/Cancellation status for all the show.
 
 You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
@@ -8,11 +8,11 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release *NET 2026*.
 
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Renewed, release *NET Autumn 2025*.
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Premiere date: *01/10/2025*.
 
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Renewed, release *NET Autumn 2025*.
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Premiere date: *01/10/2025*.
 
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Renewed, release *NET Autumn 2025*.
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Premiere date: *01/10/2025*.
 
 **_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - New show, release *NET January 2026* (held for midseason).
 
@@ -40,7 +40,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - New show, Premiere date: *17/10/2025*.
 
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Will release in three parts: Episodes 1-4, 27/11/2025; Episodes 5-7, 26/11/2025; Episode 8 (Finale), 01/01/2026.
+**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Will release in three parts: Episodes 1-4, 27/11/2025; Episodes 5-7, 26/12/2025; Episode 8 (Finale), 01/01/2026.
 
 ## Pending:
 **_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Pending Renewal/Cancellation from *Apple TV+*.
@@ -76,7 +76,11 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Wednesday:</ins>
 
-~~Null~~
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::four: - Premiere date: *01/10/2025* (Weekly)
+
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::one: - Premiere date: *01/10/2025* (Weekly)
+
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::three: - Premiere date: *01/10/2025* (Weekly)
 
 
 <ins>Thursday:</ins>
@@ -135,8 +139,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
-Updated *20/07/2025*.
+Updated *29/07/2025*.
 
-**_Tenth_** and final update for the **_2024/25_** broadcasting season.
-
-**_First_** update for the **_2025/26_** broadcasting season.
+**_Second_** update for the **_2025/26_** broadcasting season.
