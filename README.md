@@ -18,7 +18,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release *NET March 2026*.
 
-**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Renewed, release *NET Autumn 2025*.
+**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Premiere date: *16/10/2025*.
 
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Premiere date: *13/10/2025*.
 
@@ -36,7 +36,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :two: - Premiere date: *14/10/2025*.
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *NET end of 2026*.
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *NET beginning of 2026*.
 
 **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - New show, Premiere date: *17/10/2025*.
 
@@ -85,7 +85,11 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Thursday:</ins>
 
-~~Null~~
+**_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :three: - Premiere date: *16/10/2025* (Full Season)
+
+**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 1: Episodes 1-4_** - Premiere date: *27/11/2025* (Partial Season)
+
+**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 3: Episode 8 - SERIES FINALE_** - Premiere date: *01/01/2026* (Partial Season)
 
 
 <ins>Friday:</ins>
@@ -93,6 +97,8 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Premiere date: *17/10/2025* (Weekly)
 
 **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - New show, Premiere date: *17/10/2025* (Weekly)
+
+**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 2: Episodes 5-7_** - Premiere date: *26/12/2025* (Partial Season)
 
 
 <ins>Saturday:</ins>
@@ -139,6 +145,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
-Updated *29/07/2025*.
+Updated *19/08/2025*.
 
-**_Second_** update for the **_2025/26_** broadcasting season.
+**_Third_** update for the **_2025/26_** broadcasting season.
