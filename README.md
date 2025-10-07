@@ -146,4 +146,4 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 Updated *08/10/2025*.
 
-**_Fourth_** update for the **_2025/26_** broadcasting season.
+**_Fourth_** update of the **_2025/26_** broadcasting season.
