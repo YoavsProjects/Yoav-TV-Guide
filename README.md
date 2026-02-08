@@ -6,49 +6,45 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
+**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - Premiere date: *23/02/2026*.
+
 **_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release *NET 2026*.
 
-**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - New show, release *NET January 2026* (held for midseason).
-
-**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Renewed, release *NET March 2026*.
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Release date: *24/03/2026*.
 
 **_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :four: - Renewed, release *TBD*.
 
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :nine: - Renewed, release *NET Autumn 2026*.
 
-**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Renewed, release *TBD*.
+**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :five: - Renewed, release *NET Autumn 2026*.
+
+**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Release date: *27/03/2026*.
 
 **_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Renewed, release *TBD*.
 
 **_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *NET June 2026*.
 
+**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::four: - Renewed, release *NET Autumn 2026*.
+
+**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :three: - Renewed, release *NET Autumn 2026*.
+
+**_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :two: - Renewed, release *NET Autumn 2026*.
+
 **_The Last of Us_ ([HBO Max](https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a))** :three: - Renewed, release *NET 2026*.
 
 **_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Renewed, release *NET 2026*.
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Renewed, release *NET beginning of 2026*.
-
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - Will release in three parts: Episodes 1-4, 27/11/2025; Episodes 5-7, 26/12/2025; Episode 8 (Finale), 01/01/2026.
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Release date: *19/02/2026*.
 
 ## Pending:
-**_9-1-1: Nashville_ ([ABC](https://abc.com/show/44708d60-70c7-4afc-96ad-90bd698246be))** :two: Pending Renewal/Cancellation from *ABC*.
-
 **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::five: - Pending Renewal/Cancellation from *NBC*.
 
 **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::two: - Pending Renewal/Cancellation from *NBC*.
 
 **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::four: - Pending Renewal/Cancellation from *NBC*.
 
-**_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :five: - Pending Renewal/Cancellation from *CBS*.
-
-**_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::four: - Pending Renewal/Cancellation from *CBS*.
-
-**_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))** :three: - Pending Renewal/Cancellation from *CBS*.
-
-**_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :two: - Pending Renewal/Cancellation from *CBS*.
-
-## 2025 Cancellations:
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** - Will be ending with season :five:
+## Cancellations:
+~~Null~~
 
 ## Notes/Extras:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** - Renewed for season :three:, ahead of previous season's release.
@@ -62,10 +58,14 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Monday:</ins>
 
+**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - Premiere date: *23/02/2026* (Weekly)
+
 **_FBI_ ([CBS](https://www.cbs.com/shows/fbi))** :eight: - Premiered @ *13/10/2025* (Weekly)
 
 
 <ins>Tuesday:</ins>
+
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Release date: *24/03/2026* (Weekly)
 
 **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Premiered @ *14/10/2025* (Weekly)
 
@@ -83,20 +83,15 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Thursday:</ins>
 
-**_9-1-1: Nashville_ ([ABC](https://abc.com/show/44708d60-70c7-4afc-96ad-90bd698246be))** :one: - **_NEW_** - Premiered @ *09/10/2025* (Weekly)
-
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 1: Episodes 1-4_** - Premiere date: *27/11/2025* (Partial Season)
-
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 3: Episode 8 - SERIES FINALE_** - Premiere date: *01/01/2026* (Partial Season)
-
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Release date: *19/02/2026* (Full Season)
 
 <ins>Friday:</ins>
 
 **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Premiered @ *17/10/2025* (Weekly)
 
-**_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - Premiered @ *17/10/2025* (Weekly)
+**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Release date: *27/03/2026* (Weekly)
 
-**_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))** :five: - **_FINAL SEASON_** - **_Part 2: Episodes 5-7_** - Premiere date: *26/12/2025* (Partial Season)
+**_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - Premiered @ *17/10/2025* (Weekly)
 
 
 <ins>Saturday:</ins>
@@ -105,7 +100,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 ## All Shows:
 * **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))**
-* **_9-1-1: Nashville_ ([ABC](https://abc.com/show/44708d60-70c7-4afc-96ad-90bd698246be))**
 * **_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))**
 * **_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))**
 * **_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))**
@@ -124,7 +118,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 * **_NCIS: Origins_ ([CBS](https://www.cbs.com/shows/ncis-origins))**
 * **_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))**
 * **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))**
-* **_Stranger Things_ ([Netflix](https://www.netflix.com/title/80057281))**
 
 ## Terms Used (Legend):
 * NET - An acronym meaning No Earlier Than.
@@ -144,6 +137,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
-Updated *08/10/2025*.
+Updated *08/02/2026*.
 
-**_Fourth_** update for the **_2025/26_** broadcasting season.
+**_Fifth_** update for the **_2025/26_** broadcasting season.
