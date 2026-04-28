@@ -6,11 +6,17 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 ## Renewed:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** :two: - Renewed, release *TBD*.
 
-**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :one: - **_NEW_** - Premiere date: *23/02/2026*.
+**_CIA_ ([CBS](https://www.cbs.com/shows/cia))** :two: - Renewed, release *NET Autumn 2026*.
 
-**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Renewed, release *NET 2026*.
+**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::five: - Renewed, release *NET Autumn 2026*.
 
-**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Release date: *24/03/2026*.
+**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::two: - Renewed, release *NET Autumn 2026*.
+
+**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::four: - Renewed, release *NET Autumn 2026*.
+
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Release date: 28/05/2026.
+
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :three: - Renewed, release *NET 2027*.
 
 **_The Diplomat_ ([Netflix](https://www.netflix.com/title/81288983))** :four: - Renewed, release *TBD*.
 
@@ -18,11 +24,11 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :five: - Renewed, release *NET Autumn 2026*.
 
-**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Release date: *27/03/2026*.
+**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :six: - **_FINAL SEASON_** - Renewed, release *TBD*.
 
 **_Foundation_ ([Apple TV+](https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3))** :four: - Renewed, release *TBD*.
 
-**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Renewed, release *NET June 2026*.
+**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Release date: 21/06/2026.
 
 **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::four: - Renewed, release *NET Autumn 2026*.
 
@@ -34,26 +40,24 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 **_Anne Rice's Mayfair Witches_ ([AMC+](https://www.amc.com/shows/mayfair-witches--1059404))** :three: - Renewed, release *NET 2026*.
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Release date: *19/02/2026*.
+**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :four: - Renewed, release *NET 2027*.
 
 ## Pending:
-**_Chicago FIRE_ ([NBC](https://www.nbc.com/chicago-fire))** :one::five: - Pending Renewal/Cancellation from *NBC*.
 
-**_Chicago MED_ ([NBC](https://www.nbc.com/chicago-med))** :one::two: - Pending Renewal/Cancellation from *NBC*.
-
-**_Chicago P.D._ ([NBC](https://www.nbc.com/chicago-pd))** :one::four: - Pending Renewal/Cancellation from *NBC*.
 
 ## Cancellations:
 ~~Null~~
 
 ## Notes/Extras:
 **_3 Body Problem_ ([Netflix](https://www.netflix.com/title/81024821))** - Renewed for season :three:, ahead of previous season's release.
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** - Renewed for season :two::zero:, ahead of previous season's release.
+**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** Renewed for season :four:, ahead of previous season's release.
 
 ## Weekly Schedule:
 
 <ins>Sunday:</ins>
 
-~~Null~~
+**_House of the Dragon_ ([HBO Max](https://www.max.com/shows/house-of-the-dragon/c68e69d7-9317-428a-a615-cdf8fe5a2e06))** :three: - Premiere date: *21/06/2026* (Weekly)
 
 
 <ins>Monday:</ins>
@@ -65,7 +69,7 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Tuesday:</ins>
 
-**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Release date: *24/03/2026* (Weekly)
+**_Daredevil: Born Again_ ([Disney+](https://www.disneyplus.com/series/daredevil-born-again/6Eu8fmI0MaUk))** :two: - Premiered @ *24/03/2026* (Weekly)
 
 **_NCIS_ ([CBS](https://www.cbs.com/shows/ncis))** :two::three: - Premiered @ *14/10/2025* (Weekly)
 
@@ -83,13 +87,13 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 
 <ins>Thursday:</ins>
 
-**_The Night Agent_ ([Netflix](https://www.netflix.com/title/81450827))** :three: - Release date: *19/02/2026* (Full Season)
+**_Criminal Minds: Evolution_ ([Paramount+](https://www.paramountplus.com/shows/criminal_minds))** :one::nine: - Premiere date: *28/05/2026* (Weekly)
 
 <ins>Friday:</ins>
 
 **_Fire Country_ ([CBS](https://www.cbs.com/shows/fire-country))** :four: - Premiered @ *17/10/2025* (Weekly)
 
-**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Release date: *27/03/2026* (Weekly)
+**_For All Mankind_ ([Apple TV+](https://tv.apple.com/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7))** :five: - Premiered @ *27/03/2026* (Weekly)
 
 **_Sheriff Country_ ([CBS](https://www.cbs.com/shows/sheriff-country))** :one: - **_NEW_** - Premiered @ *17/10/2025* (Weekly)
 
@@ -137,6 +141,6 @@ You can view a list of all tracked TV Shows [**_here_**](#all-shows).
 * *TVLine*'s [**2025 TV Premiere Dates: New & Returning Series**](https://tvline.com/lists/tv-premiere-dates-new-returning-series/)
 
 
-Updated *08/02/2026*.
+Updated *28/04/2026*.
 
-**_Fifth_** update for the **_2025/26_** broadcasting season.
+**_Sixth_** update for the **_2025/26_** broadcasting season.
